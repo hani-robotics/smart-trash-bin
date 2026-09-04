@@ -8,7 +8,7 @@ An automated smart trash bin using Arduino Uno, HC-SR04 Ultrasonic Sensor & Serv
 - Servo Motor(SG90 or similar)
 
 ## Hardware Connections 
-|| Component | Arduino Pin |
+|Component | Arduino Pin |
 |-----------|-------------|
 | HC-SR04 Trig Pin | 11 |
 | HC-SR04 ECHO Pin | 10 |
