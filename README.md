@@ -21,4 +21,4 @@ An automated smart trash bin using Arduino Uno, HC-SR04 Ultrasonic Sensor & Serv
 
 ##Demo Video
 
-[Watch the demo on LinkedIn](linkedin.com/in/hani-saïdi-894b5404)
+[Watch the demo on LinkedIn](linkedin.com/in/hani-saïdi-8941b5404)
